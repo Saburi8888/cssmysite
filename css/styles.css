@@ -1,0 +1,147 @@
+a{
+  color: #11999e;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+body{
+    margin:0;
+    color: #40514e;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+
+.btn {
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:11px 14px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #1bb0fa;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
+
+h1{
+    margin:0;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color:#66bfbf;
+}
+
+h2{
+    font-family:  'Merriweather', serif;
+    color:#66bfbf;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+h3{
+    font-family:  'Merriweather', serif;
+    color:#11995e;
+}
+
+p{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size:0.85em;
+    line-height: 2;
+   }
+
+.programmer{
+  margin: 0;
+}
+.top-container{
+    background-color: #cff1ef;
+    position: relative;
+    padding-top: 100px;
+
+}
+.middle-container{
+  margin: 100px 0;
+}
+
+.profile-photo{
+
+    width: 150px;
+    margin-top: 15px;
+}
+
+.pizza{
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+}
+.pro{
+  text-decoration: underline;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+hr{
+  border: none;
+  border-top: dotted;
+  color: #eaf6f6;
+  width: 4%;
+  height: 0px;
+  border-top-width: 6px;
+margin: 100px auto;
+}
+.web{
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
